@@ -5,4 +5,5 @@ print(age)
 new_age=age+1
 print(new_age)
 is_student='Is Student:'
-print(is_student, True)
+a=(is_student==is_student)
+print(is_student,a)
